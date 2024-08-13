@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nathaniel1024
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Web Development and Software Engineering 
+- 🌱 I’m currently learning Java 
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me: nathanieldante09@gmail.com
 
 <!---
